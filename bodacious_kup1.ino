@@ -1,3 +1,5 @@
+//tinkercad-link -- https://www.tinkercad.com/things/eBV21szmaui-bodacious-kup
+
 //Definimos variables 
 
 const int luzAmarilla = 13; 
